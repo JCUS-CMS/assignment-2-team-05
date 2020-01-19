@@ -22,3 +22,10 @@ function init_widgets($id){
 } 
 
 add_action('widgets_init', 'init_widgets'); 
+
+function sr_dash_redirect() {
+  if( is_admin() && !current_user_can('administrator') && !DOING_AJAX) {
+    wp_redirect( home_url() );
+  }
+}
+add_action('init', 'sr_dash_redirect' );

@@ -18,3 +18,10 @@ When contributing to this repository, please execute pull with cmd command to fi
 Make sure to pull first and then push.git status to find out the status of the change.
 Update README.md with the details of the interface changes, including the new environment variables, exposed ports, useful file locations, and container parameters.
 Add the version number and README.md from any sample file to the new version this Pull Request will represent. The version control scheme we use is Git.
+### Versioning
+We use **Git** for versioning.
+### Authors
+**JianJian Cheng** - Home page and Event page  
+**HaoNan Wang** - Career page and About page  
+**KunBo Zhu** - Contact page and README.md  
+**KeYi Cheng** - Story page

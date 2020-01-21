@@ -21,7 +21,6 @@ get_header();
             <?php echo wpautop('Sorry, No posts were found.'); ?>
         <?php endif; ?>
     </div>
-
 </div> 
 <?php get_footer(); ?>
   

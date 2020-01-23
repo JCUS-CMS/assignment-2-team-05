@@ -21,7 +21,7 @@ Add the version number and README.md from any sample file to the new version thi
 ### Versioning
 We use **Git** for versioning.
 ### Authors
-**JianJian Cheng** - Home page and Blog/Post page jianjian.chen1@my.jcu.edu.au 
+**JianJian Cheng** - Home page and Blog/Post page
 **HaoNan Wang** - Career page and About page  
 **KunBo Zhu** - Contact page and README.md  
 **KeYi Cheng** - Story page

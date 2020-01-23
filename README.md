@@ -24,4 +24,4 @@ We use **Git** for versioning.
 **JianJian Cheng** - Home page and Blog/Post page
 <br>**HaoNan Wang** - Career page and Statistics  
 **KunBo Zhu** - Contact page and README.md  
-**KeYi Cheng** - Story page
+**KeYi Cheng** - **Make a very simple Story page,the man is very lazy,he just did little thing in the team** .

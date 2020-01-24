@@ -87,8 +87,8 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 		add_theme_support(
 			'custom-logo',
 			array(
-				'height'      => 190,
-				'width'       => 190,
+				'height'      => 240,
+				'width'       => 240,
 				'flex-width'  => false,
 				'flex-height' => false,
 			)
@@ -116,13 +116,13 @@ if ( ! function_exists( 'twentynineteen_setup' ) ) :
 				array(
 					'name'      => __( 'Small', 'twentynineteen' ),
 					'shortName' => __( 'S', 'twentynineteen' ),
-					'size'      => 19.5,
+					'size'      => 20,
 					'slug'      => 'small',
 				),
 				array(
 					'name'      => __( 'Normal', 'twentynineteen' ),
 					'shortName' => __( 'M', 'twentynineteen' ),
-					'size'      => 22,
+					'size'      => 24,
 					'slug'      => 'normal',
 				),
 				array(

@@ -40,7 +40,7 @@
 						array(
 							'theme_location' => 'footer',
 							'menu_class'     => 'footer-menu',
-							'depth'          => 1,
+							'depth'          => 2.5,
 						)
 					);
 					?>
